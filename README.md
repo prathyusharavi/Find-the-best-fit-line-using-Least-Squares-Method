@@ -45,9 +45,10 @@ plt.show()
 ```
 
 ## Output:
-```
-![image](https://github.com/user-attachments/assets/005cd491-1f1c-43c2-abe1-8e9ae49e4b73)
-```
+
+![image](https://github.com/user-attachments/assets/fcbff468-af2d-42ee-9982-09fb35f8e86d)
+
+
 
 
 ## Result:
